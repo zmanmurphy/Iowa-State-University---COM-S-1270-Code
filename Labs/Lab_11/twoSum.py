@@ -2,6 +2,9 @@
 # Lab #11 Section F
 
 # This code will have multiple solutions to the Two-Sum problem.
+# URL: https://interviewing.io/questions/two-sum
+# Accessed: 12-5-25
+# First two functions come from the article.
 
 def twoSumLoops(list1, target):
     for i in range(len(list1)-1):
